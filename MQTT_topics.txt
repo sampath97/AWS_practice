@@ -1,0 +1,5 @@
+$aws/things/MyRpi/shadow/update
+
+$aws/things/MyRpi/shadow/get
+
+$aws/things/MyRpi/shadow/get/accepted

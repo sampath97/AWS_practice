@@ -1,0 +1,10 @@
+{
+  "state": {
+    "desired": {
+      "welcome": "aws-iot"
+    },
+    "reported": {
+      "welcome": "aws-iot"
+    }
+  }
+}
